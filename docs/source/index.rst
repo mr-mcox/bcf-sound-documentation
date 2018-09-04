@@ -7,6 +7,7 @@ Welcome to BCF Sound Documentation!
 
 
    overview/sound_outcomes
+   overview/powerpoint_outcomes
 
 Indices and tables
 ==================
