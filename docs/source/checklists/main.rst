@@ -1,5 +1,8 @@
-Powerpoint Checklists
+Checklists
 ===================================================
+
+Powerpoint
+-----------
 
 .. toctree::
    :maxdepth: 2
@@ -9,7 +12,15 @@ Powerpoint Checklists
    ppt/during_service
    ppt/after_service
 
+Sound
+-----------
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   sound/during_service
+   sound/after_service
 
 Indices and tables
 ==================
