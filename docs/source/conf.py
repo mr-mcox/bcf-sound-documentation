@@ -12,7 +12,7 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -158,6 +158,12 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
+def setup(app):
+    print('Running setup!')
+    app.add_config_value('detail', 'high', 'env')
+
+
+detail = os.getenv('DOC_DETAIL', 'high')
 
 # -- Options for todo extension ----------------------------------------------
 

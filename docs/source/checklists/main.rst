@@ -1,14 +1,15 @@
-Welcome to BCF Sound Documentation!
+Powerpoint Checklists
 ===================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   ppt/before_service
+   ppt/during_service
+   ppt/after_service
 
-   overview/sound_outcomes
-   overview/powerpoint_outcomes
-   checklists/main
+
 
 Indices and tables
 ==================

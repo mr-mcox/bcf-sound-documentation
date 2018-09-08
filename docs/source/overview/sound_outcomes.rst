@@ -4,7 +4,7 @@ Sunday Service Sound Tech Outcomes
 Before the worship team arrives
 --------------------------------
 
-* Microphones arranged on stage
+* Stage set up
 * Microphones tested
 * Board settings reset to defaults
 
@@ -13,6 +13,7 @@ By the end of worship practice
 
 * Gains normalized on all channels
 * Monitors balanced
+* Big House sound set up and tested
 * Wireless mics tested
 
 During service
@@ -25,4 +26,4 @@ During service
 After service
 -----------------
 * Edit and upload sermon
-* Reset stage
+* Reset equipment
