@@ -5,9 +5,6 @@ Welcome to BCF Sound Documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-   overview/sound_outcomes
-   overview/powerpoint_outcomes
    checklists/main
 
 Indices and tables

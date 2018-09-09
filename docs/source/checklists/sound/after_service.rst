@@ -92,3 +92,7 @@ Edit And Upload Sermon
 
     * Close out of editing the site and chose to save results if it prompts you
     * Open the `BCF Media Page <http://betheltwincities.org/media>`_ and verify that the sermon has posted
+
+Reset equipment
+-----------------
+

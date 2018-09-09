@@ -19,6 +19,8 @@ Sound
    :maxdepth: 2
    :caption: Contents:
 
+   sound/before_practice
+   sound/during_practice
    sound/during_service
    sound/after_service
 

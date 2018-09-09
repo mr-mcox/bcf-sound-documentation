@@ -24,7 +24,7 @@ Turn On Projectors
   .. ifconfig:: detail in ('high')
 
     * It is turned on with the short black remote stored in the metal cabinet of the sound booth
-     Press the power button while pointing the remote at the projector
+      Press the power button while pointing the remote at the projector
 
 - [_] Turn on lobby projector
 

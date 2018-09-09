@@ -1,6 +1,13 @@
 During the Service
 ===================
 
+Establish balance and clarity
+-------------------------------
+
+Monitor auxiliary channels
+----------------------------
+
+
 Record the Sermon
 ------------------
 
@@ -38,3 +45,5 @@ Record the Sermon
       Results will be inconsistent if you have made adjustments throughout the sermon.
 
 
+Transition to sermon settings and back
+----------------------------------------
