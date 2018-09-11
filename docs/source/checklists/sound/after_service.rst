@@ -96,3 +96,46 @@ Edit And Upload Sermon
 Reset equipment
 -----------------
 
+- [_] Mute all channels
+
+- [_] Bring all faders down
+
+- [_] Turn the power sequencer to the off position
+
+- [_] Retrieve and store the wireless microphones
+
+
+  .. ifconfig:: detail in ('high')
+
+    * Ensure that each microphone is off
+    * Taking the batteries out of the microphones is unnecessary as we use them frequntly enough and any drain is minimal
+    * Store the Shure SM58 in its pouch
+    * Loop the cable for the boom mic and store it and the bodypack in its case
+    * Ensure that the clip for the boom mic is also stored
+    * Both the SM58 and bodypack go directly on a shelf in the sound closet
+    * The GTD microphones go in the front pouch of the microphone case
+
+- [_] If any equipment was borrowed from another section of the building, return it
+
+  .. ifconfig:: detail in ('high')
+
+    * You will be able to identify non-BCF equipment by the lack of a BCF label
+
+- [_] Store all microphones in the microphone case and store the case in the sound closet
+
+- [_] Unplug all cables except for the piano cable, wrap and secure them
+
+  .. ifconfig:: detail in ('high')
+
+    * Cables should be in a clean loop when you finish wrapping
+    * `This is an excellent video <https://youtu.be/bTtBAVug79o>`_ demonstrating how to wrap cables
+    * All cables should have a velcro tie on them which should secure your wrapped cables
+    * Cables are hung in the sound closet according to color (which signifies length)
+
+- [_] Stack all DI boxes on the shelf in the sound closet
+
+- [_] Place mic stands and music stands in the corner of the sound closet
+
+- [_] Return the headphones to the sound closet
+
+- [_] Turn off the lights in the sound closet and ensure that both doors are locked
