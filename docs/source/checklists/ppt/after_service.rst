@@ -4,7 +4,7 @@ After Service
 Reset Equipment
 ----------------
 
-- [_] Put the powerpoint remote back in the sound back
+- [_] Put the powerpoint remote back in the sound bag
 
   .. ifconfig:: detail in ('high')
 
@@ -32,12 +32,14 @@ Reset Equipment
     * It should display a confirmation message when you press the power button.
       Once that happens, pres the power button a second time
     * You can verify that it's turned off by seeing the blue power light on the projectors turn off
+    * Return the remote to the cabinet
 
 - [_] Turn off lobby projector
 
   .. ifconfig:: detail in ('high')
 
     * It is turned off with the tan remote stored in the metal cabinet of the sound booth
+    * Return the remote to the cabinet
 
 - [_] Log off powerpoint computer
 

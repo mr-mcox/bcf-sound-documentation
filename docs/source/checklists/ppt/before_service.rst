@@ -14,7 +14,7 @@ Turn On Projectors
 
   .. ifconfig:: detail in ('high')
 
-    * They are turned on with the black remote stored in the metal cabinet of the sound booth
+    * They are turned on with the black Viewsonic remote stored in the metal cabinet of the sound booth
     * Press the power button while standing nearly underneath the projectors and pointing the remote at them
     * They both should turn on with a single press
     * Wait a minute and listen for whether they start making noise. If they do, press the mute button on the remote.
@@ -23,21 +23,22 @@ Turn On Projectors
 
   .. ifconfig:: detail in ('high')
 
-    * It is turned on with the short black remote stored in the metal cabinet of the sound booth
+    * It is turned on with a black Viewsonic remote stored in the metal cabinet of the sound booth
       Press the power button while pointing the remote at the projector
 
 - [_] Turn on lobby projector
 
   .. ifconfig:: detail in ('high')
 
-    * It is turned on with the tan remote stored in the metal cabinet of the sound booth
+    * It is turned on with the tan JQA remote stored in the metal cabinet of the sound booth
 
 - [_] Verify that images appear on sanctuary projectors
 
   .. ifconfig:: detail in ('high')
 
     * Log into the powerpoint computer with the password listed in the key box
-    * Open the week's powerpoint and put it in presentation mode. It should display on all screens
+    * Open the week's powerpoint located at \Dropbox\PowerPointFiles and put it in presentation mode.
+      It should display on all screens
     * If it does not, find someone to help you troubleshoot
 
 Set Up and Check Materials To Be Presented
@@ -53,8 +54,10 @@ Set Up and Check Materials To Be Presented
   .. ifconfig:: detail in ('high')
 
     * Advance the slides and verify that the songs match what is on the service plan
+    * Slides for missing songs can be pasted in from "\Dropbox\PowerPointFiles\Bethel Master Song File"
     * Verify that announcements on the service plan are on the slides
     * Verify that the sermon slides are present
+    * Slides for missing sermon can be pasted in from "\Dropbox\PowerPointFiles\SermonFile"
     * Talk to Liz if anything is missing
 
 - [_] Check additional videos or songs

@@ -27,6 +27,8 @@ Establish balance and clarity
       * Can you hear the vocals just above the instruments?
       * Do the instruments provide a bed just below the vocals?
 
+- [_] Adjust overall sound level so that slow RMS maxes just over 80dB
+
 - [_] EQ individuals for clarity
 
   .. ifconfig:: detail in ('high')
