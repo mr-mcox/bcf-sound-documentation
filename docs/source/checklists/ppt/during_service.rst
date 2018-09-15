@@ -1,6 +1,9 @@
 During Service
 ================
 
+Advancing slides
+------------------
+
 - [_] Follow song and announcement slide changes
 
   .. ifconfig:: detail in ('high')

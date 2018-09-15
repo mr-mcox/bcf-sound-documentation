@@ -41,7 +41,7 @@ Turn On Projectors
       It should display on all screens
     * If it does not, find someone to help you troubleshoot
 
-Set Up and Check Materials To Be Presented
+Check slides
 -------------------------------------------
 - [_] Open service powerpoint
 

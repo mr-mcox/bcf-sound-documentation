@@ -139,3 +139,5 @@ Reset equipment
 - [_] Return the headphones to the sound closet
 
 - [_] Turn off the lights in the sound closet and ensure that both doors are locked
+
+- [_] Put translation box back in the metal cabinet
