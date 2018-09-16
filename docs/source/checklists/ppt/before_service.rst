@@ -1,12 +1,6 @@
 PPT Before Service
 ===================
 
-.. todo:: Provide more detail on the remote
-.. todo:: Can the rear projector be used with the same remote?
-.. todo:: Need location of powerpoint
-.. todo:: Ask what additional files are needed for backup
-.. todo:: Record the password in the key box
-
 Turn On Projectors
 -------------------
 
