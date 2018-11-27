@@ -1,36 +1,35 @@
 PPT Before Service
 ===================
 
+Start Up Computer
+-------------------
+
+- [_] Log into PPT computer
+
+  .. ifconfig:: detail in ('high')
+
+    * Turn on the screens
+    * Log into the powerpoint account with the password listed in the key box
+
+
 Turn On Projectors
 -------------------
 
-- [_] Turn on front projectors
+- [_] Turn on sanctuary projectors
 
   .. ifconfig:: detail in ('high')
 
-    * They are turned on with the black Viewsonic remote stored in the metal cabinet of the sound booth
-    * Press the power button while standing nearly underneath the projectors and pointing the remote at them
-    * They both should turn on with a single press
-    * Wait a minute and listen for whether they start making noise. If they do, press the mute button on the remote.
+    * Use the black Viewsonic remote stored in the metal cabinet of the sound booth
+    * Stand under the front projectors & press the power button
+    * Make sure both turn on - you should see images on both screens
+    * Wait a minute and check whether they are both muted. If they start making noise, press the mute button on the remote.
 
-- [_] Turn on rear projector
-
-  .. ifconfig:: detail in ('high')
-
-    * It is turned on with a black Viewsonic remote stored in the metal cabinet of the sound booth
-      Press the power button while pointing the remote at the projector
-
-- [_] Turn on lobby projector
-
-  .. ifconfig:: detail in ('high')
-
-    * It is turned on with the tan JQA remote stored in the metal cabinet of the sound booth
+- [_] Stand under the rear projector and turn on
 
 - [_] Verify that images appear on sanctuary projectors
 
   .. ifconfig:: detail in ('high')
 
-    * Log into the powerpoint computer with the password listed in the key box
     * Open the week's powerpoint located at \Dropbox\PowerPointFiles and put it in presentation mode.
       It should display on all screens
     * If it does not, find someone to help you troubleshoot

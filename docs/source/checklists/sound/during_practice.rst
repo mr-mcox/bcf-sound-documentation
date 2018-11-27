@@ -90,6 +90,7 @@ Ready translation equipment
     * Put on a receiver and check that speech into the wireless mic is heard in the headset
 
 - [_] Put box of translation supplies at the foot of the sound area stairs
+- [_] Put printed service order and slide deck on box
 
 Attend pre-service meeting
 ----------------------------

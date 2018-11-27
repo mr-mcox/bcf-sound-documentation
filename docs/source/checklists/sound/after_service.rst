@@ -55,7 +55,7 @@ Edit And Upload Sermon
   .. ifconfig:: detail in ('high')
 
     * File -> Export -> Export as MP3
-    * Save in C:\Audio Recordings\ in the format "2018-07-01-Message.mp3", substituting today's date.
+    * Save in Desktop\Sermon Shortcuts\Audio Recordings\ in the format "2018-07-01-Message.mp3", substituting today's date.
 
 - [_] Upload audio
 
@@ -76,7 +76,7 @@ Edit And Upload Sermon
 
     * While the audio is uploading, click on the attachments tab
     * Click the "Add a file" button
-    * Navigate to the service powerpoint in the Dropbox folder and upload
+    * Navigate to Desktop\Sermon Shortcuts\Sermon PPTs\ and upload today's sermon
 
 - [_] Add Thumbnail
 
@@ -84,7 +84,7 @@ Edit And Upload Sermon
 
     * Wait until the sermon finished uploading (this cannot be done before)
     * Click on the Thumbnails tab and click on "Upload your image"
-    * Navigate to Dropbox -> Sermon Files->Images and upload the image that corresponds to the sermon
+    * Navigate to Desktop\Sermon Shortcuts\Thumbnails  and upload the image that corresponds to the sermon
 
 - [_] Verify that the sermon was posted
 
@@ -109,11 +109,9 @@ Reset equipment
 
     * Ensure that each microphone is off
     * Taking the batteries out of the microphones is unnecessary as we use them frequntly enough and any drain is minimal
-    * Store the Shure SM58 in its pouch
     * Loop the cable for the boom mic and store it and the bodypack in its case
-    * Ensure that the clip for the boom mic is also stored
-    * Both the SM58 and bodypack go directly on a shelf in the sound closet
-    * The GTD microphones go in the front pouch of the microphone case
+    * Ensure that the barrette for the boom mic is also stored
+    * Both the SM58 and bodypack go in the front pouch of the microphone case
 
 - [_] If any equipment was borrowed from another section of the building, return it
 

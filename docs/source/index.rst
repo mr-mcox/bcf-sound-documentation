@@ -6,6 +6,7 @@ Welcome to BCF Sound Documentation!
    :caption: Contents:
 
    checklists/main
+   changelog
 
 Indices and tables
 ==================

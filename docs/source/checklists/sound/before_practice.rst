@@ -46,7 +46,10 @@ Board settings reset to defaults
 - [_] Only keys should have pad pressed
 - [_] Set master gains to 50 for all wired mics
 - [_] EQ should be inline for all channels
-- [_] Set all aux sends to 0
+- [_] Set aux 1-2 sends to vertical
+- [_] Set aux 3-4 sends to -∞
+- [_] Set aux 5-6 sends to 0
+- [_] Route lead vocal to balanced LR
 - [_] Set all vox channels to group to vox
 - [_] Set all instrument channels to group to instrument
-- [_] Set Aux 1 & 2 to be a hair above the lowest line
+- [_] Set Aux 1 & 2 to be at the second line from lowest
