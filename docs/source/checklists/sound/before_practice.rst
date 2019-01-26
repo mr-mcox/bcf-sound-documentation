@@ -53,3 +53,4 @@ Board settings reset to defaults
 - [_] Set all vox channels to group to vox
 - [_] Set all instrument channels to group to instrument
 - [_] Set Aux 1 & 2 to be at the second line from lowest
+- [_] Set Aux 6 to -∞

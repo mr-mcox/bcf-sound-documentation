@@ -71,9 +71,9 @@ Check slides
     * Check the batteries in the remote with the battery tester in the metal cabinet
     * Verify that the remote works by turning it on and advancing a slide
 
-- [_] Place powerpoint remote on the podium
+- [_] Place powerpoint remote with wireless mic
 
 
   .. ifconfig:: detail in ('high')
 
-    * Turn the remote off and place on the podium
+    * The lead sound engineer will take both to the pre-service meeting

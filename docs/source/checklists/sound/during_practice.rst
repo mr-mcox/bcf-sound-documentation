@@ -109,3 +109,7 @@ Attend pre-service meeting
     * Lead Engineer attends the meeting in the pastor's office at 9:30
     * Take notes on answers to questions, changes to program or events that may need the team's attention
 
+Turn sound on for lobby
+--------------------------
+
+- [_] Turn Aux 6 up so that people in the lobby can hear the service
