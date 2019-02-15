@@ -163,7 +163,7 @@ def setup(app):
     app.add_config_value('detail', 'high', 'env')
 
 
-detail = os.getenv('DOC_DETAIL', 'low')
+detail = os.getenv('DOC_DETAIL', 'high')
 
 # -- Options for todo extension ----------------------------------------------
 
