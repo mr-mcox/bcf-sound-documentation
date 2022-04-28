@@ -20,13 +20,13 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = 'BCF Sound Documentation'
-copyright = '2018, Matthew Cox'
+copyright = '2022, Matthew Cox'
 author = 'Matthew Cox'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '1.1.2'
+release = '2.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -168,4 +168,4 @@ detail = os.getenv('DOC_DETAIL', 'high')
 # -- Options for todo extension ----------------------------------------------
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = True
+todo_include_todos = False
