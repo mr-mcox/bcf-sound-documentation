@@ -20,7 +20,7 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = 'BCF Sound Documentation'
-copyright = '2018, Matthew Cox'
+copyright = '2022, Matthew Cox'
 author = 'Matthew Cox'
 
 # The short X.Y version
