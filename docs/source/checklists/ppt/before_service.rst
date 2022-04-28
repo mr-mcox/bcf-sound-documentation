@@ -51,7 +51,7 @@ Check slides
     * Verify that announcements on the service plan are on the slides
     * Verify that the sermon slides are present
     * Slides for missing sermon can be pasted in from "\Dropbox\PowerPointFiles\SermonFile"
-    * Talk to Liz if anything is missing
+    * Talk to Benjamin if anything is missing
 
 - [_] Check additional videos or songs
 

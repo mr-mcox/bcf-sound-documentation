@@ -12,7 +12,9 @@ Powerpoint
    ppt/during_service
    ppt/after_service
 
-`PowerPoint Feedback: <https://docs.google.com/forms/d/e/1FAIpQLSeUgVq13Dna7qjytHOtzlAl8T9P85AM3dgzv6CmoZy4uAhy2w/viewform?usp=sf_link>`_
+.. raw:: latex
+
+    \clearpage
 
 Sound
 -----------
@@ -21,12 +23,11 @@ Sound
    :maxdepth: 2
    :caption: Contents:
 
-   sound/before_practice
-   sound/during_practice
-   sound/during_service
-   sound/after_service
-
-`Sound Feedback: <https://docs.google.com/forms/d/e/1FAIpQLSeUgVq13Dna7qjytHOtzlAl8T9P85AM3dgzv6CmoZy4uAhy2w/viewform?usp=sf_link>`_
+   sound_basic/before_musicians
+   sound_basic/during_practice
+   sound_basic/before_service_start
+   sound_basic/during_service
+   sound_basic/before_leaving
 
 
 Indices and tables

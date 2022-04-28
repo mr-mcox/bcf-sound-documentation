@@ -1,6 +1,10 @@
 Changes
 =========
 
+Version 2.0 - April 2022
+-----------------------------
+- Overhauled instructions for digital board
+
 Version 1.1 - January 2018
 -----------------------------
 
